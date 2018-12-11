@@ -1,0 +1,2 @@
+vhdl work "d_enable_latch.vhd"
+vhdl work "async_register.vhd"

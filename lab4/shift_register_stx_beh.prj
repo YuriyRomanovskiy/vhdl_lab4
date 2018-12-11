@@ -1,0 +1,2 @@
+vhdl isim_temp "Dff_enable_async.vhd"
+vhdl isim_temp "shift_register.vhd"

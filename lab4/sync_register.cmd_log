@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/brand/Documents/folder/lab4/sync_register.xst" -ofn "C:/Users/brand/Documents/folder/lab4/sync_register.syr" 
+xst -intstyle ise -ifn "C:/Users/brand/Documents/folder/lab4/sync_register.xst" -ofn "C:/Users/brand/Documents/folder/lab4/sync_register.syr" 

@@ -1,0 +1,2 @@
+vhdl isim_temp "DESync.vhd"
+vhdl isim_temp "sync_register.vhd"

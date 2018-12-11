@@ -1,0 +1,2 @@
+vhdl work "DESync.vhd"
+vhdl work "sync_register.vhd"
